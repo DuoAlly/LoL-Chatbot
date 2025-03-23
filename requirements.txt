@@ -1,3 +1,0 @@
-# transformers==4.37.2  # Compatible version for AutoModelForCausalLM and AutoTokenizer
-# torch==2.5.1          # Ensure compatibility with the transformers library
-# accelerate>=0.26.0
