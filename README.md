@@ -11,6 +11,12 @@ The **DuoAlly AI Chatbot** is an interactive rule-based chatbot assistant design
 - **Role-specific tips**
 
 With fuzzy matching for champion names and a contextual response system, this chatbot ensures a smooth user experience.
+---
+
+## Demo
+Note: This demo includes many of the LoL chatbot version 1.0's limitations. For version 2.0, please go to https://github.com/DuoAlly/LoL-Chatbot-v2.
+
+https://github.com/user-attachments/assets/d230bb15-1b0b-4f77-a1a7-2584de77a1db
 
 ---
 
