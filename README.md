@@ -30,13 +30,7 @@ With fuzzy matching for champion names and a contextual response system, this ch
    git clone https://github.com/DuoAlly/LoL-Chatbot.git
    cd LoL-Chatbot
    ```
-2. Install dependencies (if required):
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *(No additional dependencies needed for the base code as it uses Python's standard library.)*
-
-3. Run the chatbot:
+2. Run the chatbot:
    ```bash
    python chatbot.py
    ```
@@ -45,19 +39,14 @@ With fuzzy matching for champion names and a contextual response system, this ch
 
 ## Usage
 
-1. Start the chatbot:
-   ```bash
-   python chatbot.py
-   ```
-
-2. Use these commands for specific information:
+1. Use these commands for specific information:
    - **Abilities**: `What are Ahri's abilities?`
    - **Items**: `Recommended items for Ahri`
    - **Runes**: `What runes should I take on Ahri?`
    - **Matchups**: `Who is Ahri strong against?`
    - **Tips**: `Tips for Ahri`
 
-3. Exit the chatbot anytime by typing:
+2. Exit the chatbot anytime by typing:
    ```text
    exit
    ```
@@ -97,16 +86,6 @@ W: Fox-Fire - Releases fox-fires that target nearby enemies
 E: Charm - Blows a kiss that damages and charms an enemy
 R: Spirit Rush - Dashes and fires essence bolts at nearby enemies
 ```
-
----
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m "Add feature"`
-4. Push to the branch: `git push origin feature-name`
-5. Open a Pull Request
 
 ---
 
