@@ -2,7 +2,7 @@ import re
 import sys
 import time
 import json
-from typing import Dict, List, Optional
+from typing import Optional
 from datetime import datetime
 from difflib import get_close_matches
 
