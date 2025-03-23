@@ -387,7 +387,7 @@ def main():
     # Display welcome message
     welcome_text = """
     ╔══════════════════════════════════════════════╗
-    ║       Enhanced LoL Expert Bot v2.1           ║
+    ║           LoL Expert Bot v1.0                ║
     ╚══════════════════════════════════════════════╝
     
     Ask me about any champion's:
