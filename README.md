@@ -68,7 +68,7 @@ With fuzzy matching for champion names and a contextual response system, this ch
 
 ```plaintext
 ╔══════════════════════════════════════════════╗
-║       Enhanced LoL Expert Bot v2.0           ║
+║           LoL Expert Bot v1.0                ║
 ╚══════════════════════════════════════════════╝
 
 Ask me about any champion's:
